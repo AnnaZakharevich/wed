@@ -97,7 +97,7 @@ header nav ul li.btn a:hover{
 }
 
 .hero--info {
-    width: 530px;
+    width: 50%;
     padding: 250px 0;
 }
 
@@ -471,3 +471,4 @@ footer > p {
     text-align: center;
 
 }
+
